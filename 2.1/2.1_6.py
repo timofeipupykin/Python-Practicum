@@ -9,3 +9,5 @@ print(f"{name} - {int(weight)}кг - {cost}руб/кг")
 print(f"Итого: {fin_cost}руб")
 print(f"Внесено: {money}руб")
 print(f"Сдача: {change}руб")
+if __name__ == "__main__":
+    print("2.1_6 completed")

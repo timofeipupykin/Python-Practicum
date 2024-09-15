@@ -8,3 +8,5 @@ c = a + b
 x1 = a / c
 x2 = b / c
 print(int(n * x1), int(n * x2))
+if __name__ == "__main__":
+    print("2.1_20 completed")
